@@ -107,6 +107,14 @@ section {
   line-height: 2;
 }
 
+.searchbox {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+}
+
 .hero-cta a {
   color: var(--primary-color);
   font-style: italic;
